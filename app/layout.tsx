@@ -5,6 +5,9 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'SparkAppLab',
   description: '小さく便利なWebツールを作る個人開発ラボです。',
+  other: {
+    'google-adsense-account': 'ca-pub-7773720345150664',
+  },
 }
 
 export default function RootLayout({
